@@ -1,7 +1,7 @@
 # internship-mael
 
 ## 01.06.2021 
-### Contributor assistant
+### Contributor assistant (CA)
 1. [Project structure suggestion](https://github.com/cla-assistant/contributor-assistant/issues/14)
 
 ### CLA Classic
@@ -25,3 +25,6 @@
     - signatures can also be stored inside a private repository
     - versioning of signatures
 
+#### Meeting summary
+ - (CA) Keep `/src` folder but carry on with the modular approach
+ - Review CLA classic PRs, run a local instance
