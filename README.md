@@ -28,3 +28,11 @@
 #### Meeting summary
  - (CA) Keep `/src` folder but carry on with the modular approach
  - Review CLA classic PRs, run a local instance
+
+## 02.06.2021
+### Models & ideas
+ - https://github.com/cla-assistant/cla-assistant-thesis
+ - https://github.com/marketplace/actions/deploy-to-github-pages
+ - https://opensource.com/article/18/3/cla-vs-dco-whats-difference
+ - https://probot.github.io/apps/dco/
+
