@@ -64,4 +64,5 @@ Solution: create a small script to install Deno
 https://cdn.skypack.dev/error/node:node:os?from=@actions/core
 (the issue comes from node/os)
 
-Solution: this package is not that big so we can recode the faulty functions
+Solution: ~~this package is not that big so we can recode the faulty functions~~
+most features won't work, but we can do without it.
