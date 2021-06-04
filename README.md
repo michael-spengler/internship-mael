@@ -46,3 +46,22 @@
   - If explicitely enabled, deploy a github-pages interface to manage the CA
   - Would be a modular website: there would be tabs for each enabled feature of the CA
   - When something is updated, just rebuild the part that's needed
+
+## 03.06.2021
+### Meeting recap
+ - Centralized website to visualize data: issue marketplace for example
+ - need to think about the reward system
+
+## 04.06.2021
+### code log
+
+#### Issue: GitHub doesn't allow running other actions when defining a reusable one in action.yml
+https://docs.github.com/en/actions/creating-actions/about-actions#types-of-actions
+
+Solution: create a small script to install Deno
+
+#### Issue: @actions/core is not available under Deno
+https://cdn.skypack.dev/error/node:node:os?from=@actions/core
+(the issue comes from node/os)
+
+Solution: this package is not that big so we can recode the faulty functions
