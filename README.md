@@ -66,3 +66,16 @@ https://cdn.skypack.dev/error/node:node:os?from=@actions/core
 
 Solution: ~~this package is not that big so we can recode the faulty functions~~
 most features won't work, but we can do without it.
+
+## 07.06.2021
+
+### CLA lite
+#### https://github.com/cla-assistant/github-action/issues/85
+
+### CA
+
+#### Issue: @actions/core is not available under Deno
+
+esm.sh fixes the `node/os` issue but some `process` features are not yet polyfilled, I've fixed them by myself. This modified version can be removed in the future without consequences.
+
+I'm thinking about contributing to the node compatibility layer to speed things up.
