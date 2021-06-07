@@ -80,9 +80,13 @@ esm.sh fixes the `node/os` issue but some `process` features are not yet polyfil
 
 I'm thinking about contributing to the node compatibility layer to speed things up.
 
-#### A lot of NodeJS standard libraries are missing in the Deno compatibility
+#### A lot of NodeJS standard libraries are missing in the Deno compatibility layer
 
 Maybe Deno isn't ready yet for production...
+
+`http, htt2, http2` are unsupported, `os, node globals` are partly supported
+
+=> `@actions/core`, `@actions/github`, `@actions/http-client` and a lot more are incompatible with Deno
 
 We have two options for now:
  - either contribute to `deno_std/node` to reduce incompatibilities (and greatly help the community)
