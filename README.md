@@ -70,7 +70,7 @@ most features won't work, but we can do without it.
 ## 07.06.2021
 
 ### CLA lite
-#### https://github.com/cla-assistant/github-action/issues/85
+#### https://github.com/cla-assistant/github-action/issues/85#issuecomment-855724311
 
 ### CA
 
