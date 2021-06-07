@@ -79,3 +79,11 @@ most features won't work, but we can do without it.
 esm.sh fixes the `node/os` issue but some `process` features are not yet polyfilled, I've fixed them by myself. This modified version can be removed in the future without consequences.
 
 I'm thinking about contributing to the node compatibility layer to speed things up.
+
+#### A lot of NodeJS standard libraries are missing in the Deno compatibility
+
+Maybe Deno isn't ready yet for production...
+
+We have two options for now:
+ - either contribute to `deno_std/node` to reduce incompatibilities (and greatly help the community)
+ - or make everything in Deno from scratch. This would make maintainability challenging.
