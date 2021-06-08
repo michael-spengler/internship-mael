@@ -91,3 +91,9 @@ Maybe Deno isn't ready yet for production...
 We have two options for now:
  - either contribute to `deno_std/node` to reduce incompatibilities (and greatly help the community)
  - or make everything in Deno from scratch. This would make maintainability challenging.
+
+## 08.06.2021
+
+### CA
+
+In fact there are very few features of the @actions/github package used in the github action. So I will grab those functions, fix them for Deno and everything should be fine.
