@@ -97,3 +97,14 @@ We have two options for now:
 ### CA
 
 In fact there are very few features of the @actions/github package used in the github action. So I will grab those functions, fix them for Deno and everything should be fine.
+
+## 09.06.2021 - 11.06.2021
+
+### CA
+
+CLA features are now implemented in the CA.
+
+ - The whole codebase is now typesafe,
+ - fix: take default branch when none is provided instead of 'main'
+ - fix: co-authors where not taken into account
+ - refactor: graphql
