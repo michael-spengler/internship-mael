@@ -108,3 +108,11 @@ CLA features are now implemented in the CA.
  - fix: take default branch when none is provided instead of 'main'
  - fix: co-authors where not taken into account
  - refactor: graphql
+
+## 14.08.2021 - 18.08.2021
+
+### CA
+
+- code refactors
+- deno CI/CD, automatic bundling
+- https://github.com/cla-assistant/contributor-assistant/issues/31
