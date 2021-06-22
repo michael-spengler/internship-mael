@@ -109,10 +109,17 @@ CLA features are now implemented in the CA.
  - fix: co-authors where not taken into account
  - refactor: graphql
 
-## 14.08.2021 - 18.08.2021
+## 14.06.2021 - 18.06.2021
 
 ### CA
 
 - code refactors
 - deno CI/CD, automatic bundling
-- https://github.com/cla-assistant/contributor-assistant/issues/31
+- CLA Assistant lite issues progress: https://github.com/cla-assistant/contributor-assistant/issues/31
+
+## 21.06.2021 - 22.06.2021
+
+### CA
+
+- test scenarios: https://github.com/cla-assistant/contributor-assistant/blob/main/src/cla-functions/scenarios.md
+- Bug fixes & features on the CLA Assistant lite issues
