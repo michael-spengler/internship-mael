@@ -123,3 +123,17 @@ CLA features are now implemented in the CA.
 
 - test scenarios: https://github.com/cla-assistant/contributor-assistant/blob/main/src/cla-functions/scenarios.md
 - Bug fixes & features on the CLA Assistant lite issues
+
+## 23.06.2021 - 24.06.2021
+
+### CLA Assistant Classic
+
+ - https://github.com/cla-assistant/cla-assistant/pull/688
+ - The revoke feature is being debated: What's the point of the signatures if people can withdraw it?
+
+### CA
+
+ - delete comment => remove signature
+ - Issue: same as above
+ - Solution: create signatures at merge time
+ - Need to settle the various issues in a meeting
