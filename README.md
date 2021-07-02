@@ -137,3 +137,11 @@ CLA features are now implemented in the CA.
  - Issue: same as above
  - Solution: create signatures at merge time
  - Need to settle the various issues in a meeting
+
+## 25.06.2021 - 02.07.2021
+
+### CA
+
+Major rework: we'll now use [issue forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
+
+Fixes the UI issue.
