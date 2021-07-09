@@ -145,3 +145,15 @@ CLA features are now implemented in the CA.
 Major rework: we'll now use [issue forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
 
 Fixes the UI issue.
+
+## 05.07.2021 - 09.07.2021
+
+### CA
+
+ - Lot of bug fixes
+ - Testing
+ - Drafting of the README
+ - Migration scripts (from Classic & Lite CLA Assistant)
+ - Storage optimization
+
+
