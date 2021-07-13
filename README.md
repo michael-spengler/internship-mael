@@ -156,4 +156,16 @@ Fixes the UI issue.
  - Migration scripts (from Classic & Lite CLA Assistant)
  - Storage optimization
 
+## 12.07.2021
 
+### CA
+
+ - Created migration web interface for Classic & Lite CLA Assistant (will be hosted on Github Pages)
+
+## 13.07.2021
+
+### CA
+
+ - Enhance ignore list pattern:
+   - Bot detection [issue](https://github.community/t/gitactor-user-should-be-type-actor-not-user-cannot-distinguish-between-bots-users-otherwise/14559/9)
+   - `authorAffiliation` is only available when commenting or when requesting repositories for each user
