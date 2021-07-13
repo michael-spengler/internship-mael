@@ -169,3 +169,4 @@ Fixes the UI issue.
  - Enhance ignore list pattern:
    - Bot detection [issue](https://github.community/t/gitactor-user-should-be-type-actor-not-user-cannot-distinguish-between-bots-users-otherwise/14559/9)
    - `authorAffiliation` is only available when commenting or when requesting repositories for each user
+ - Ignore bots by default
