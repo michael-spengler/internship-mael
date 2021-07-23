@@ -162,7 +162,7 @@ Fixes the UI issue.
 
  - Created migration web interface for Classic & Lite CLA Assistant (will be hosted on Github Pages)
 
-## 13.07.2021
+## 13.07.2021 - 14.07.2021
 
 ### CA
 
@@ -170,3 +170,14 @@ Fixes the UI issue.
    - Bot detection [issue](https://github.community/t/gitactor-user-should-be-type-actor-not-user-cannot-distinguish-between-bots-users-otherwise/14559/9)
    - `authorAffiliation` is only available when commenting or when requesting repositories for each user
  - Ignore bots by default
+
+## 19.07.2021 - 21.07.2021
+
+### CA
+
+ - Config file
+
+#### Intellectual property transfer ?
+
+ - two similar products: CLA Assistant classic & Contributor Assistant
+ - transfer to Maël Acier, Michael Spengler, Anton Kharitonov, and Akshay Iyyadurai Balasundaram.
