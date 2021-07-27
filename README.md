@@ -181,3 +181,10 @@ Fixes the UI issue.
 
  - two similar products: CLA Assistant classic & Contributor Assistant
  - transfer to Maël Acier, Michael Spengler, Anton Kharitonov, and Akshay Iyyadurai Balasundaram.
+
+## 22.07.2021 - 27.07.2021
+
+### CA
+
+ - bug fixes
+ - repo migration plans
