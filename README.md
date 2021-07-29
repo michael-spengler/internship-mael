@@ -188,3 +188,10 @@ Fixes the UI issue.
 
  - bug fixes
  - repo migration plans
+
+## 28.07.2021 - 29.07.2021
+
+### CA
+
+ - Testing github actions ?
+ - Using [act](https://github.com/nektos/act) or [puppeteer](https://github.com/puppeteer/puppeteer/)
